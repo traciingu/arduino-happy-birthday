@@ -11,8 +11,8 @@ This is a personal project using Arduino starter kit. The goal is to have the bu
 
 ## Setup
 * The LED will use the following pins:
-** Red uses pin 10
-** Green uses pin 9
-** Blue uses pin 6
+  * Red uses pin 10
+  * Green uses pin 9
+  * Blue uses pin 6
 * Buzzer will use pin 8
 * Resistor is for grounding the LED
